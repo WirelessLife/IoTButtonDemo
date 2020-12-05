@@ -113,7 +113,7 @@ In order to send Device to Cloud (D2C) message to Azure IoT Hub, save Connection
 
 In order to send Device to Cloud (D2C) message to Azure IoT Central, save device provisioning information in ReButton.
 
-In order to connect ReButton to Azure IoT Central, the device template for ReButton needs to be defined in you Azure IoT Central Application. _Please refer [Azure IoT Central Document](https://docs.microsoft.com/en-us/azure/iot-central/howto-set-up-template) for more information._
+In order to connect ReButton to Azure IoT Central, the device template for ReButton needs to be defined in you Azure IoT Central Application. _Please refer [Azure IoT Central Document](https://docs.microsoft.com/azure/iot-central/howto-set-up-template?WT.mc_id=modinfra-0000-abartolo) for more information._
 
 1. Create a device template for ReButton in Azure IoT Central.  
 
